@@ -1,0 +1,9 @@
+echo "D-99059 BİLGİLERİ SAKLANDI."
+echo "D-99156 DENEYİ BAŞLATILIYOR."
+echo "YILDIZLAR... YARATILDI."
+GEZEGENLER... YARATILDI.
+İLK CANLI MANUEL OLUŞTURULSUN MU?(E/H)... H
+DUVAR ÇAPI? (AU)     :_____
+Zaman aşımı... Lütfen değer giriniz!
+DUVAR ÇAPI? (AU)     :500
+<<<HAZIR>>>
